@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curio13579/NodeJS-todo.git"
+  },
+  "author": "priya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curio13579/NodeJS-todo/issues"
+  },
+  "homepage": "https://github.com/curio13579/NodeJS-todo#readme"
+}
